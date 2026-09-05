@@ -1,0 +1,6 @@
+{
+  "name": "RazorRecon - AI Finance Controller",
+  "description": "Autonomous multi-source ledger reconciliation engine for Indian D2C merchants (Razorpay AI Buildathon Track 04)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
