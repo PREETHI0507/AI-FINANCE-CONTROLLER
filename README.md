@@ -8,6 +8,18 @@ RazorRecon is a browser-based financial reconciliation engine that automates **3
 
 Instead of using generative AI for financial arithmetic, RazorRecon uses **deterministic rules and integer-scaled paisa arithmetic** to ensure calculations remain predictable, auditable, and balanced.
 
+UI/UX design
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dddc6a53-2fec-4c14-b08d-038dda23d657" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5272abd7-1ea6-4a5d-b17b-d835fe75ede3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26a2c888-811e-4f72-aa16-ab282d698bc7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44a02b1f-6e6f-4474-be3b-2deb9dac4665" />
+calculator feature
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13a1010f-0b0c-4d7e-97eb-7f489862a7fe" />
+scrachpad feature
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81214bce-1a65-488d-b621-8700c2103242" />
+
+
 ---
 
 ## 🚨 The Problem
